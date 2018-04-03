@@ -23,3 +23,5 @@ To scrape deeper/less deep on high-scoring albums
 
 If you want to crawl deeper from a single starting point, change the global
 variable RECURSION_DEPTH at the start of scraper.py
+
+If you want to use more or fewer Python threads, change MAX_WORKERS at the start of scraper.py
